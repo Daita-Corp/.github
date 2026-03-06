@@ -1,4 +1,4 @@
-[![Daita](./logo.png)](https://daita-tech.io/)
+<a href="https://daita-tech.io/"><img src="./logo.png" alt="Daita" width="300"/></a>
 
 **We build open-source infrastructure for production AI agents.**
 
