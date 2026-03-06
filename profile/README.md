@@ -2,7 +2,7 @@
 
 <a href="https://daita-tech.io/"><img src="./logo.png" alt="Daita" width="300"/></a>
 
-**We build open-source infrastructure for production AI agents.**
+**AI Agent framework for data operations.**
 
 [![X](https://img.shields.io/badge/@usedaita-000?style=flat&logo=x&logoColor=white)](https://x.com/usedaita)
 [![YouTube](https://img.shields.io/badge/@usedaita-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@usedaita)
@@ -14,7 +14,7 @@
 
 ## What we're building
 
-**[daita-agents](https://github.com/Daita-Corp/daita-agents)** — A Python framework for building autonomous AI agents that are actually production-ready. Multi-provider LLM support, a rich plugin ecosystem, persistent memory, multi-agent workflows, and zero-config tracing — all with a clean, minimal API.
+**[daita-agents](https://github.com/Daita-Corp/daita-agents)** — A Python framework for building autonomous AI agents that scale with your data. Multi provider LLM support, a rich plugin ecosystem, persistent memory, multi-agent workflows, and zero-config tracing, all with a minimal API.
 
 ```python
 from daita import Agent, tool
